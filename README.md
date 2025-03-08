@@ -1,7 +1,7 @@
 Hi there 👋
 
 I'm Artem, Ukrainian 🇺🇦 in the Netherlands 🇳🇱. 
-I work in [JetBrains](https://github.com/JetBrains) on [Kotlin/Wasm](https://github.com/JetBrains/kotlin/tree/master/compiler/ir/backend.wasm/src/org/jetbrains/kotlin/backend/wasm) and partially on [Kotlin/JS](https://github.com/JetBrains/kotlin/tree/master/compiler/ir/backend.js/src/org/jetbrains/kotlin/ir/backend/js).
+I lead [Kotlin/JS](https://github.com/JetBrains/kotlin/tree/master/compiler/ir/backend.js/src/org/jetbrains/kotlin/ir/backend/js) at [JetBrains](https://github.com/JetBrains), ex-[Kotlin/Wasm](https://github.com/JetBrains/kotlin/tree/master/compiler/ir/backend.wasm/src/org/jetbrains/kotlin/backend/wasm) software engineer.
 
 In my free time, I maintain the [sweet-monads project](https://github.com/JSMonk/sweet-monads) and help with [Source Map specification](https://github.com/tc39/source-map-spec).
 
